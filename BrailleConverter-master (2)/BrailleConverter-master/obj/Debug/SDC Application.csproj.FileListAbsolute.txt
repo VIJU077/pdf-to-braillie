@@ -1,0 +1,21 @@
+C:\Users\aagam\source\repos\SDC Application\SDC Application\bin\Debug\SDC Application.exe.config
+C:\Users\aagam\source\repos\SDC Application\SDC Application\bin\Debug\SDC Application.exe
+C:\Users\aagam\source\repos\SDC Application\SDC Application\bin\Debug\SDC Application.pdb
+C:\Users\aagam\source\repos\SDC Application\SDC Application\bin\Debug\MetroFramework.Design.dll
+C:\Users\aagam\source\repos\SDC Application\SDC Application\bin\Debug\MetroFramework.dll
+C:\Users\aagam\source\repos\SDC Application\SDC Application\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\aagam\source\repos\SDC Application\SDC Application\obj\Debug\SDC Application.csprojAssemblyReference.cache
+C:\Users\aagam\source\repos\SDC Application\SDC Application\obj\Debug\SDC_Application.Properties.Resources.resources
+C:\Users\aagam\source\repos\SDC Application\SDC Application\obj\Debug\SDC Application.csproj.GenerateResource.cache
+C:\Users\aagam\source\repos\SDC Application\SDC Application\obj\Debug\SDC Application.csproj.CoreCompileInputs.cache
+C:\Users\aagam\source\repos\SDC Application\SDC Application\obj\Debug\SDC Application.csproj.CopyComplete
+C:\Users\aagam\source\repos\SDC Application\SDC Application\obj\Debug\SDC Application.exe
+C:\Users\aagam\source\repos\SDC Application\SDC Application\obj\Debug\SDC Application.pdb
+C:\Users\aagam\source\repos\SDC Application\SDC Application\bin\Debug\dje\SDC Application.resources.dll
+C:\Users\aagam\source\repos\SDC Application\SDC Application\obj\Debug\dje\SDC Application.resources.dll
+C:\Users\aagam\source\repos\SDC Application\SDC Application\obj\Debug\SDC_Application.MainActivity.resources
+C:\Users\aagam\source\repos\SDC Application\SDC Application\obj\Debug\SDC_Application.PdfForm.resources
+C:\Users\aagam\source\repos\SDC Application\SDC Application\obj\Debug\SDC_Application.MainActivity.dje.resources
+C:\Users\aagam\source\repos\SDC Application\SDC Application\bin\Debug\itextsharp.dll
+C:\Users\aagam\source\repos\SDC Application\SDC Application\bin\Debug\itextsharp.xml
+C:\Users\aagam\source\repos\SDC Application\SDC Application\obj\Debug\SDC_Application.TextForm.resources
